@@ -3,7 +3,7 @@ Driving Route is a simple application that shows the route for the place you wan
 You'll just set your starting point and drop off point. It uses Google's Maps API, Directions API and Places API made with Vue.js.
 This is one of the challenge given to me by a company I applied in.
 
-![Driving Route Screenshot](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Driving Route Screenshot](src/assets/driving_route.PNG)
 
 ## Project setup
 ```
